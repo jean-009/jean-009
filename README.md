@@ -1,49 +1,89 @@
-<details>
-<summary><b>🇧🇷 Experiência Profissional e Consultoria (Clique para expandir)</b></summary>
+<div align="center">
+  <a href="#-olá-eu-sou-o-jean-pt-br">🇧🇷 Português</a> |
+  <a href="#-hello-im-jean-en">🇺🇸 English</a> |
+  <a href="#-hola-soy-jean-es">🇪🇸 Español</a>
+</div>
 
-### 👔 Experiência Profissional e Consultoria
+---
 
-**Consultor de Business Intelligence (BI) | Grupo HServ (Projeto Autônomo)**
-* **Escopo:** Contratado para desenvolver uma solução *end-to-end* de Business Intelligence (BI) para a área [mencionar área, ex: financeira].
-* **Ação:** Levantei requisitos com o cliente, executei o pipeline de ETL (limpeza e modelagem em SQL/Python) e construí os dashboards interativos em [Power BI/Looker Studio].
-* **Resultado:** Entreguei uma ferramenta de BI que automatizou relatórios e forneceu insights acionáveis, permitindo uma gestão baseada em dados.
+# 🇧🇷 Olá, eu sou o Jean! <a name="-olá-eu-sou-o-jean-pt-br"></a>
+### QA Engineer em Transição | Foco em Dados & Back-end
 
-</details>
+Estou direcionando minha carreira técnica para **Quality Assurance (QA)**, trazendo comigo uma bagagem sólida em **Engenharia de Dados**.
 
-<details>
-<summary><b>🇺🇸 Professional & Consulting Experience (Click to expand)</b></summary>
+Meu objetivo não é apenas encontrar erros visuais, mas garantir a qualidade e integridade do sistema de ponta a ponta — desde a query no banco de dados até a experiência final do usuário.
 
-### 👔 Professional & Consulting Experience
+🚀 **Meu Diferencial**
+Ao contrário de um QA iniciante comum, minha experiência com **SQL, ETL e Python** me permite:
+* Realizar testes de **Caixa Branca** e validação de dados com profundidade.
+* Entender a lógica do Back-end para reportar bugs mais precisos aos desenvolvedores.
+* Criar scripts de automação mais robustos.
 
-**Business Intelligence (BI) Consultant | Grupo HServ (Freelance Project)**
-* **Scope:** Contracted to develop an end-to-end Business Intelligence (BI) solution for the [mention area, e.g., finance] department.
-* **Action:** Gathered client requirements, executed the ETL pipeline (cleaning and modeling in SQL/Python), and built interactive dashboards in [Power BI/Looker Studio].
-* **Result:** Delivered a BI tool that automated reporting and provided actionable insights, enabling data-driven management.
+🔭 **O que estou estudando agora (Trilha de Especialização):**
+* **Fundamentos:** Metodologias Ágeis, Ciclo de Vida de Bugs e Processos de Teste (Coursera/UMN).
+* **Gestão:** Jira e Documentação de Testes.
+* **Automação:** Cypress (Front-end) e Postman (APIs).
 
-</details>
+🛠️ **Tech Stack & Ferramentas**
+* **QA Core:** Jira, Scrum/Kanban, Test Planning.
+* **Dados & Lógica:** SQL (Avançado), Python, Modelagem de Dados.
+* **Controle de Versão:** Git/GitHub.
 
-<details>
-<summary><b>🇪🇸 Experiencia Profesional y Consultoría (Clic para expandir)</b></summary>
+📫 **Vamos nos conectar?**
+https://www.linkedin.com/in/henrique-jean-duarte-64833a38a/
 
-### 👔 Experiencia Profesional y Consultoría
+---
 
-**Consultor de Business Intelligence (BI) | Grupo HServ (Proyecto Autónomo)**
-* **Alcance:** Contratado para desarrollar una solución *end-to-end* de Inteligencia de Negocios (BI) para el área [mencionar área, ej: financiera].
-* **Acción:** Recopilé requisitos del cliente, ejecuté el *pipeline* ETL (limpieza y modelado en SQL/Python) y construí dashboards interactivos en [Power BI/Looker Studio].
-* **Resultado:** Entregué una herramienta de BI que automatizó informes y proporcionó *insights* accionables, permitiendo una gestión basada en datos.
+# 🇺🇸 Hello, I'm Jean! <a name="-hello-im-jean-en"></a>
+### QA Engineer in Transition | Data & Back-end Focus
 
-</details>
-<!--
-**jean-009/jean-009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am pivoting my technical career towards **Quality Assurance (QA)**, bringing a strong background in **Data Engineering**.
 
-Here are some ideas to get you started:
+My goal goes beyond finding visual bugs; I aim to ensure system quality and data integrity from end-to-end — from the database query to the final user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **My Edge**
+Unlike a typical entry-level QA, my experience with **SQL, ETL, and Python** allows me to:
+* Perform in-depth **White Box Testing** and data validation.
+* Understand Back-end logic to report more precise bugs to developers.
+* Create robust automation scripts.
+
+🔭 **Currently Studying (Specialization Path):**
+* **Fundamentals:** Agile Methodologies, Bug Life Cycle, and Testing Processes (Coursera/UMN).
+* **Management:** Jira and Test Documentation.
+* **Automation:** Cypress (Front-end) and Postman (APIs).
+
+🛠️ **Tech Stack & Tools**
+* **QA Core:** Jira, Scrum/Kanban, Test Planning.
+* **Data & Logic:** SQL (Advanced), Python, Data Modeling.
+* **Version Control:** Git/GitHub.
+
+📫 **Let's connect!**
+https://www.linkedin.com/in/henrique-jean-duarte-64833a38a/
+
+---
+
+# 🇪🇸 ¡Hola, soy Jean! <a name="-hola-soy-jean-es"></a>
+### QA Engineer en Transición | Enfoque en Datos y Back-end
+
+Estoy dirigiendo mi carrera técnica hacia **Quality Assurance (QA)**, aportando una sólida experiencia en **Ingeniería de Datos**.
+
+Mi objetivo no es solo encontrar errores visuales, sino garantizar la calidad e integridad del sistema de extremo a extremo, desde la consulta en la base de datos hasta la experiencia final del usuario.
+
+🚀 **Mi Diferencial**
+A diferencia de un QA principiante común, mi experiencia con **SQL, ETL y Python** me permite:
+* Realizar pruebas de **Caja Blanca** y validación de datos con profundidad.
+* Entender la lógica del Back-end para reportar bugs más precisos a los desarrolladores.
+* Crear scripts de automatización más robustos.
+
+🔭 **Lo que estoy estudiando ahora (Ruta de Especialización):**
+* **Fundamentos:** Metodologías Ágiles, Ciclo de Vida de Bugs y Procesos de Prueba (Coursera/UMN).
+* **Gestión:** Jira y Documentación de Pruebas.
+* **Automatización:** Cypress (Front-end) y Postman (APIs).
+
+🛠️ **Tech Stack y Herramientas**
+* **QA Core:** Jira, Scrum/Kanban, Planificación de Pruebas.
+* **Datos y Lógica:** SQL (Avanzado), Python, Modelado de Datos.
+* **Control de Versiones:** Git/GitHub.
+
+📫 **¡Conectemos!**
+https://www.linkedin.com/in/henrique-jean-duarte-64833a38a/
